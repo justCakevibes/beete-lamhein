@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+div{
+    margin-top: 10%;
+   padding-left: 25%;
+}
+p{
+    color: white;
+    margin-left: 100px;
+    
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+    color: gold;
+    margin-left: 15px;
+   
+}
+img{
+    border: 5px solid white ;
+}
